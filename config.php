@@ -2,7 +2,7 @@
 $host = 'localhost';
 $user = 'root';
 $password = '';
-$db = 'extravaganza_undangan';
+$db = 'extravaganza_registrasi';
 
 $conn = mysqli_connect($host, $user, $password, $db);
 if ($conn) {

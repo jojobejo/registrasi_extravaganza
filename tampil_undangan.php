@@ -19,7 +19,7 @@
 </head>
 <style>
     body {
-        background-image: url("img/bg.png");
+        background-image: url("img/bg-2024.jpg");
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -72,19 +72,19 @@
 
     .h3fontWelcome {
         position: absolute;
-        top: 240px;
+        top: 330px;
         left: 270px;
     }
 
     .h3fontTamu {
         position: absolute;
-        top: 290px;
+        top: 390px;
         left: 550px;
     }
 
     .fontTko {
         position: relative;
-        top: 370px;
+        top: 470px;
         text-align: center;
     }
 
@@ -95,7 +95,7 @@
 
     .button {
         position: absolute;
-        top: 550px;
+        top: 660px;
         left: 480px;
 
         background-color: #eab301;
@@ -126,11 +126,11 @@
 </style>
 
 <body>
-    <div class="page-header" style="margin: top 10px;">
+    <!-- <div class="page-header" style="margin: top 10px;">
         <img src="img/Karisma.png" class="logo1" height="150px" width="350px" alt="">
         <img src="img/extra.png" class="logo2" height="300px" width="550px" alt="">
         <img src="img/2022.png" class="logo3" height="125px" width="250px" alt="">
-    </div>
+    </div> -->
     <?php
     include 'config.php';
     $id = $_GET['qrcode'];

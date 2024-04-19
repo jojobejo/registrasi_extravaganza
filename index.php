@@ -24,7 +24,7 @@ header("Pragma: no-cache");
 </head>
 <style>
     body {
-        background-image: url("img/bg.png");
+        background-image: url("img/bg-2024.jpg");
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -75,11 +75,11 @@ header("Pragma: no-cache");
 </style>
 
 <body>
-    <div class="page-header" style="margin: top 10px;">
+    <!-- <div class="page-header" style="margin: top 10px;">
         <img src="img/Karisma.png" class="logo1" height="200px" width="500px" alt="">
         <img src="img/extra.png" class="logo2" height="400px" width="800px" alt="">
         <img src="img/2022.png" class="logo3" height="150px" width="300px" alt="">
-    </div>
+    </div> -->
 
     <h3 class="h3FontCus">SCAN QRCODE UNDANGAN ANDA</h3>
     <div class="form_id">
